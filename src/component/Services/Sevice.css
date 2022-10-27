@@ -1,0 +1,26 @@
+.serviceImg{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+.heading{
+   font-size: 35px;
+   font-weight: 800;
+   
+}
+.icons{
+    font-size: 80px;
+    text-align: center;
+    margin: 0 auto;
+}
+.cardDetail:hover{
+    box-shadow: 4px 4px 4px gray;
+    cursor: pointer;
+}
+.testimonialContainer{
+    background-image: url(../../Images/quotes.png);
+    background-repeat: no-repeat;
+}
+.review{
+    width: 600px;
+}

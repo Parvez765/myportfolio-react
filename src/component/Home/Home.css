@@ -1,0 +1,36 @@
+.homeContainer{
+    background-image: url(../../Images/headerIng-01.png);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: center;
+}
+
+.header{
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.heading{
+    font-size: 55px;
+    font-weight: 800;
+}
+.paragraph{
+    font-size: 18px;
+    margin-top: -10px;
+}
+.aboutbtn{
+    background: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-bottom: 15px;
+    color: black;
+    transition: 0.5s ease;
+}
+.aboutbtn:hover{
+    background: black;
+    color: white;
+}
+.socialIcon{
+    text-decoration: none;
+    color: white;
+}

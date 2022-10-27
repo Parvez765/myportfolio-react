@@ -1,0 +1,18 @@
+.myImg{
+    border-radius: 50%;
+    width: 150px;
+}
+.aboutText{
+    margin: 10px 0 10px 0;
+    padding: 15px;
+}
+.icons{
+    margin-top: -20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.socialIcon{
+    font-size: 20px;
+    margin-top: -150px;
+}
